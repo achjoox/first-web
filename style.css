@@ -1,0 +1,41 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: aliceblue;
+}
+
+.nav-logo img {
+    width: 80px;
+    height: auto;
+}
+
+.navbar a {
+    display: flex;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+.Landing-page {
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    align-items: left;
+    border-radius: 10px;
+}
+
+.profile-button {
+    gap: 10px;
+}
+
+.profile-button button {
+    padding: 10px 20px;
+}
